@@ -298,3 +298,63 @@
       <audio controls> <source src="random_shift/test_set/20_shifted.wav"> </audio>
     </td>
 </tr>
+<tr>
+  <td colspan="2">
+    <p>
+    Segment #21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls> <source src="random_shift/test_set/21_original.wav" type="audio/wav"> </audio>
+    </td>
+    <td>
+      <audio controls> <source src="random_shift/test_set/21_shifted.wav"> </audio>
+    </td>
+</tr>
+<tr>
+  <td colspan="2">
+    <p>
+    Segment #22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls> <source src="random_shift/test_set/22_original.wav" type="audio/wav"> </audio>
+    </td>
+    <td>
+      <audio controls> <source src="random_shift/test_set/22_shifted.wav"> </audio>
+    </td>
+</tr>
+<tr>
+  <td colspan="2">
+    <p>
+    Segment #23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls> <source src="random_shift/test_set/23_original.wav" type="audio/wav"> </audio>
+    </td>
+    <td>
+      <audio controls> <source src="random_shift/test_set/23_shifted.wav"> </audio>
+    </td>
+</tr>
+<tr>
+  <td colspan="2">
+    <p>
+    Segment #24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <audio controls> <source src="random_shift/test_set/24_original.wav" type="audio/wav"> </audio>
+    </td>
+    <td>
+      <audio controls> <source src="random_shift/test_set/24_shifted.wav"> </audio>
+    </td>
+</tr>
